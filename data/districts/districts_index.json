@@ -1,0 +1,90 @@
+{
+  "total_trees": 223987,
+  "total_districts": 11,
+  "districts": [
+    {
+      "code": "01",
+      "name": "Casco Antiguo",
+      "filename": "district_01_CASCO_ANTIGUO.geojson",
+      "tree_count": 8721,
+      "size_mb": 2.606344223022461
+    },
+    {
+      "code": "02",
+      "name": "Cerro - Amate",
+      "filename": "district_02_CERRO_AMATE.geojson",
+      "tree_count": 23005,
+      "size_mb": 7.049101829528809
+    },
+    {
+      "code": "03",
+      "name": "Este - Alcosa - Torreblanca",
+      "filename": "district_03_ESTE_ALCOSA_TORREBLANCA.geojson",
+      "tree_count": 41046,
+      "size_mb": 13.486846923828125
+    },
+    {
+      "code": "04",
+      "name": "Los Remedios",
+      "filename": "district_04_LOS_REMEDIOS.geojson",
+      "tree_count": 5533,
+      "size_mb": 1.6515874862670898
+    },
+    {
+      "code": "05",
+      "name": "Macarena",
+      "filename": "district_05_MACARENA.geojson",
+      "tree_count": 13633,
+      "size_mb": 4.240023612976074
+    },
+    {
+      "code": "06",
+      "name": "Nervión",
+      "filename": "district_06_NERVION.geojson",
+      "tree_count": 11880,
+      "size_mb": 3.550262451171875
+    },
+    {
+      "code": "07",
+      "name": "Norte",
+      "filename": "district_07_NORTE.geojson",
+      "tree_count": 30859,
+      "size_mb": 9.127988815307617
+    },
+    {
+      "code": "08",
+      "name": "Palmera - Bellavista",
+      "filename": "district_08_PALMERA_BELLAVISTA.geojson",
+      "tree_count": 20951,
+      "size_mb": 6.553131103515625
+    },
+    {
+      "code": "09",
+      "name": "San Pablo - Santa Justa",
+      "filename": "district_09_SAN_PABLO_SANTA_JUSTA.geojson",
+      "tree_count": 15305,
+      "size_mb": 4.832106590270996
+    },
+    {
+      "code": "10",
+      "name": "Sur",
+      "filename": "district_10_SUR.geojson",
+      "tree_count": 33573,
+      "size_mb": 10.076700210571289
+    },
+    {
+      "code": "11",
+      "name": "Triana",
+      "filename": "district_11_TRIANA.geojson",
+      "tree_count": 19448,
+      "size_mb": 5.758249282836914
+    },
+    {
+      "code": "00",
+      "name": "Sin distrito",
+      "filename": "district_00_SIN_DISTRITO.geojson",
+      "tree_count": 33,
+      "size_mb": 0.007328033447265625
+    }
+  ]
+}
